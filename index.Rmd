@@ -177,5 +177,5 @@ kable(
 kable_styling()
 
 #se genera el mapa de coropletas
-plot(mayor_igual_74_anos["lifeExp"], main=" Países de Centroamérica con esperanza de vida mayor o igual a 74 años")
+plot(mayor_igual_74_anos["lifeExp"], main="Esperanza de vida mayor o igual a 74 años en Centroamérica")
 ```
